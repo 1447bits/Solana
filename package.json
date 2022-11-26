@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2",
+    "cowsay": "^1.5.0"
+  },
+  "name": "workspace",
+  "description": "Solana crypto ..",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-okey/Solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-okey/Solana/issues"
+  },
+  "homepage": "https://github.com/Mr-okey/Solana#readme"
+}
